@@ -4,7 +4,7 @@ const cn = {
   WIP: "联系TG:https://t.me/chatopai",
   Error: {
     Unauthorized:
-     "  ### ```未授权状态，请点击```[设置](/#/settings)```按钮输入访问密码。``` ### \n ## ```有任何疑问？``` [点击TG联系我](https://t.me/chatopai) ##  \n \n \n![GPT4](https://5b0988e595225.cdn.sohucs.com/images/20181214/ab7ec804c4994694a65d4d8432583f79.gif)![GPT4](https://img.zcool.cn/community/013e9355f1727432f875a132625e66.gif) \n ```\n * 书中自有黄金屋，书中自有颜如玉 \n * 生活的意义并不是与他人争高下 \n * 而在于享受努力实现目标的过程 \n ``` \n \n \n![GPT4](https://5b0988e595225.cdn.sohucs.com/images/20191224/ffa16a5ad7d641eea305a3ce93e3b5ca.gif)",
+     "  ### ```未授权状态，请点击```[设置](/#/settings)```按钮输入访问密码。``` ### \n ## ```有任何疑问？``` [点击TG联系我](https://t.me/chatopai) ##  ",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count}条对话`,
@@ -80,7 +80,7 @@ const cn = {
         de: "Deutsch",
       },
     },
-    Avatar: "头像",
+    Avatar: "ChatGPT官方正版",
     FontSize: {
       Title: "字体大小",
       SubTitle: "聊天内容的字体大小",
