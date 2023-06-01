@@ -96,9 +96,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>v2.2-ChatGPT Next</div>
+        <div className={styles["sidebar-title"]}>ChatGPT 3.5</div>
         <div className={styles["sidebar-sub-title"]}>
-          全智能人工 AI助手.
+          全智能人工 AI助手.ChatGPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
